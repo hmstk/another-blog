@@ -43,7 +43,7 @@ module.exports = {
       options: {
         fonts:[
           `roboto mono`,
-          `muli\L400,400i,700,600i`
+          `muli\400,400i,700,600i`
         ],
         display: "swap",
       }
